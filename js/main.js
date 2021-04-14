@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Yassin Chakai.", "Designer.", "Developer.", "Freelancer.", ],
+      strings: ["Yassin Chakai.", "Designer.", "Developer.", ],
       typeSpeed: 150,
       loop: true,
     });
